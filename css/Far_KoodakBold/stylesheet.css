@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Far KoodakBold';
+	src: url('Far.KoodakBold.eot');
+	src: url('Far.KoodakBold.eot?#iefix') format('embedded-opentype'),
+		url('Far.KoodakBold.woff') format('woff'),
+		url('Far.KoodakBold.svg') format('svg');
+}
